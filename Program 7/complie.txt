@@ -1,0 +1,11 @@
+compile with this command:  g++ prog7_McKeefer.cpp -o program7 -lGLU -lGL -lglut
+ran the program with this command: ./program7
+
+on the CSE machines
+
+controls:
+UP ARROW: Zoom In
+DOWN ARROW: Zoom Out
+RIGHT ARROW: Move To The Right
+LEFT ARROW: Move To The Left
+ESC: Exit

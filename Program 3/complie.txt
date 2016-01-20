@@ -1,0 +1,11 @@
+compile with this command:  g++ prog3_McKeefer.cpp -o program2 -lGLU -lGL -lglut
+ran the program with this command: ./program2
+
+on the CSE machines
+
+controls:
+1: Slow Speed
+2: Normal Speed
+3: Fast Speed
+Space: Stop/Resume
+ESC: Exit

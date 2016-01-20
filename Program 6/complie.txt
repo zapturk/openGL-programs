@@ -1,0 +1,21 @@
+compile with this command:  g++ prog6_McKeefer.cpp -o program6 -lGLU -lGL -lglut
+ran the program with this command: ./program6
+
+on the CSE machines
+
+controls:
++: Zoom In
+-: Zoom Out
+L: Rotate Y+
+K: Rotate Y-
+>: Rotate X+
+<: Rotate X-
+b: bounding box
+d: scale down
+D: scale up
+e: shine up
+E: shine down
+f: fill/wireframe
+s: smooth/flat
+r: reset
+ESC: Exit

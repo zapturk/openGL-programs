@@ -1,0 +1,19 @@
+compile with this command:  g++ prog4_McKeefer.cpp -o program4 -lGLU -lGL -lglut
+ran the program with this command: ./program4
+
+on the CSE machines
+
+controls:
+s: CCW Arm
+S: CW Arm
+e: CCW Forarm
+E: CW Forarm
+w: CCW Hand
+W: CW Hand
+p: Change Perspective
+h: Wireframe/Solid
+x: Increase xrot
+X: Decrease xrot
+y: Increase yrot
+Y: Decrease yrot
+ESC: Exit

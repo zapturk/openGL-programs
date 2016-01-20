@@ -1,0 +1,13 @@
+compile with this command:  g++ prog5_McKeefer.cpp -o program5 -lGLU -lGL -lglut
+ran the program with this command: ./program5
+
+on the CSE machines
+
+controls:
++: Zoom In
+-: Zoom Out
+L: Rotate Y+
+K: Rotate Y-
+>: Rotate X+
+<: Rotate X-
+ESC: Exit

@@ -1,0 +1,4 @@
+compile with this command:  g++ graphicsProgram1.cpp -o gProgram1 -lGLU -lGL -lglut
+ran the program with this command: ./gProgram1
+
+on the CSE machines

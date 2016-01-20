@@ -1,0 +1,12 @@
+compile with this command:  g++ prog2_McKeefer.cpp -o program2 -lGLU -lGL -lglut
+ran the program with this command: ./program2
+
+on the CSE machines
+
+controls:
+Rotate Counter Clockwise: +
+Rotate Clockwise: -
+Stop Rotation: spacebar
+Speed Up: >
+Slow Down: <
+Exit: Esc
